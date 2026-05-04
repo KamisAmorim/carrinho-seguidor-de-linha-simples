@@ -19,5 +19,5 @@ O robô utiliza sensores infravermelhos para detectar a linha preta no chão e e
 
 ## 📝 Documentação Original
 Desenvolvemos um material completo para auxiliar na montagem e no entendimento do funcionamento do robô:
-- Clique aqui para ler a Apostila de Montagem: link_para_o_arquivo_no_repo
-- Assista ao vídeo do robô em funcionamento: https://www.youtube.com/watch?v=wgW3v_sQAcE
+- [Clique aqui para ler a Apostila de Montagem](link_para_o_arquivo_no_repo)
+- [Assista ao vídeo do robô em funcionamento](https://www.youtube.com/watch?v=wgW3v_sQAcE)
