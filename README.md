@@ -16,3 +16,8 @@ O robô utiliza sensores infravermelhos para detectar a linha preta no chão e e
 ## 📝 O que aprendi
 - [Liste algo que você aprendeu, ex: Como calibrar sensores IR]
 - [Ex: Como funcionam os motores DC]
+
+## 📝 Documentação Original
+Desenvolvemos um material completo para auxiliar na montagem e no entendimento do funcionamento do robô:
+- [Clique aqui para ler a Apostila de Montagem](link_para_o_arquivo_no_repo)
+- [Assista ao vídeo do robô em funcionamento](link_do_seu_video_no_youtube)
