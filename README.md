@@ -52,9 +52,9 @@ Para visualizar as conexões entre o Arduino, sensores, motores e ponte H, veja 
 Aqui estão algumas fotos do meu carrinho seguidor de linha e o registro do projeto em funcionamento:
 
 <div align="center">
-  <img src="src/img/img01.jpg" width="300"/>
-  <img src="src/img/img02.jpg" width="300"/>
-  <img src="src/img/img03.jpg" width="300"/>
+  <img src="src/img/img01.jpg" height="300"/>
+  <img src="src/img/img02.jpg" height="300"/>
+  <img src="src/img/img03.jpg" height="300"/>
 </div>
 
 - **Vídeo do robô em funcionamento:** [Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=wgW3v_sQAcE)
