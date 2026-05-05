@@ -19,7 +19,7 @@ O robô utiliza sensores de reflexão infravermelhos que emitem luz sobre a supe
 O Arduino envia comandos para a ponte H, que controla a velocidade e o sentido de rotação de cada motor individualmente, permitindo que o carrinho corrija sua trajetória e mantenha-se centralizado na linha. Toda a parte de conexão de energia e dados entre os componentes é feita através de jumpers e uma protoboard, o que facilita a organização e a expansão do circuito sem a necessidade de soldas.
 
 ## 💻 Preview do Código
-Aqui está o trecho da lógica principal que faz o robô seguir a linha. Para ver o arquivo completo, [clique aqui](src/nome_do_seu_arquivo.ino).
+Aqui está o trecho da lógica principal que faz o robô seguir a linha. Para ver o arquivo completo, [clique aqui](src/codigoSeguidorDeLinhaSensorAnalogico-FINAL.ino).
 
 ```cpp
 // Exemplo: Substitua pelo seu código real
@@ -52,9 +52,9 @@ Para visualizar as conexões entre o Arduino, sensores, motores e ponte H, veja 
 Aqui estão algumas fotos do meu carrinho seguidor de linha e o registro do projeto em funcionamento:
 
 <div align="center">
-  <img src="src/img/img01.jpg" width="300"/>
-  <img src="src/img/img02.jpg" width="300"/>
-  <img src="src/img/img03.jpg" width="300"/>
+  <img src="src/img/img01.jpg" height="300"/>
+  <img src="src/img/img02.jpg" height="300"/>
+  <img src="src/img/img03.jpg" height="300"/>
 </div>
 
 - **Vídeo do robô em funcionamento:** [Clique aqui para assistir no YouTube](https://www.youtube.com/watch?v=wgW3v_sQAcE)
